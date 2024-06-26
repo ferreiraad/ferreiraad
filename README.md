@@ -1,9 +1,16 @@
 ## Hi there 👋
 
 
-<!--START_SECTION:badges-->
-<!--END_SECTION:badges-->
 
+Cloud
+
+![](assets/certifications//aws-certified-solutions-architect-associate.png)
+![](assets/certifications/aws-certified-developer-associate.png)
+![](assets/certifications/aws-certified-cloud-practitioner.png)
+
+DevOps
+
+<img src="assets/certifications/hashicorp-certified-terraform-associate-002.png" width="90"/>
 
 <!--
 **ferreiraad/ferreiraad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
