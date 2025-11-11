@@ -90,3 +90,6 @@ alias kx='kubectl exec -it'                           # Quick 'exec' shorthand
 # echo "source ~/.aliases.k8s.sh" >> ~/.bashrc
 # # or
 # echo "source ~/.aliases.k8s.sh" >> ~/.zshrc
+
+# add the alias to shell profile automatically (auto-detects the shell):
+# echo "alias kcgc='kubectl config get-contexts'" >> ~/.${SHELL##*/}rc && source ~/.${SHELL##*/}rc
