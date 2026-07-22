@@ -65,37 +65,33 @@ DevOps and Observability
 <p> <img src="https://skillicons.dev/icons?i=githubactions,git,prometheus,grafana"/> </p>
 Embedded and Connected Systems
 <p> <img src="https://img.shields.io/badge/Embedded%20C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/FreeRTOS-111111?style=for-the-badge"/> <img src="https://img.shields.io/badge/LoRa-1C4C96?style=for-the-badge"/> <img src="https://img.shields.io/badge/LoRaWAN-0057B8?style=for-the-badge"/> <img src="https://img.shields.io/badge/Edge%20Computing-333333?style=for-the-badge"/> </p>
-Engineering Principles
-01. Build reusable capabilities, not isolated solutions.
-02. Think in systems and design for evolution.
-03. Automate repetitive work.
-04. Keep architecture simple and observable.
-05. Treat developer experience as a product.
-06. Apply security from the beginning.
-07. Measure before scaling.
-08. Connect software with real-world impact.
-Current Vision
-Maya
 
-Maya is an AI initiative focused on intelligent capabilities for cloud, IoT, edge computing, logistics, traceability and connected systems.
+## Engineering Principles
 
-AI
-│
-├── Cloud-native platforms
-├── Intelligent agents
-├── IoT and edge devices
-├── LoRa and LoRaWAN
-├── Secure APIs
-├── Real-time processing
-└── Automation
-GitHub Analytics
+```text
+- ♻️ Build reusable capabilities
+- 🏗 Think in systems
+- ⚙️ Automate repetitive work
+- 📊 Measure before scaling
+- 🔒 Security by Design
+- 🚀 Developer Experience First
+- 📈 Observability Everywhere
+- 🌍 Build for global scale
+```
+
+## Maya
+
+### Current Vision
+
+- 🤖 Intelligent Agents
+- ☁️ Cloud Native
+- 🌍 IoT & Edge Computing
+- 📡 LoRa / LoRaWAN
+- 🔐 Secure APIs
+- ⚡ Real-time Processing
+- 🔄 Automation
+
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ferreiraad&show_icons=true&theme=github_dark&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferreiraad&layout=compact&theme=github_dark&hide_border=true" />
-
-</div> <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ferreiraad&theme=github-dark&hide_border=true" width="100%" />
 
