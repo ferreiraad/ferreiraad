@@ -46,22 +46,12 @@ current_focus:
   - Edge Computing
 
 status: ONLINE
+````
 
 Experience Matrix
 <table> <tr> <td align="center"><strong>23+</strong><br />Years of Experience</td> <td align="center"><strong>20+</strong><br />Java</td> <td align="center"><strong>8+</strong><br />Cloud & Platform</td> <td align="center"><strong>2+</strong><br />Embedded C++</td> </tr> </table>
 Technology Domains
 <div align="center">
-
-
-
-
-
-
-
-
-
-
-
 
 </div>
 Core Stack
