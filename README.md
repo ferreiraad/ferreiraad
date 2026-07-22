@@ -136,7 +136,7 @@ Building intelligent platforms that connect cloud, software, AI and the physical
 <br/>
 <p align="center">
   <img
-    src="./assets/svg/maya-vision.svg"
+    src="./assets/svg/maya-vision-v1.svg"
     width="100%"
     alt="Maya connected intelligence"
   />
