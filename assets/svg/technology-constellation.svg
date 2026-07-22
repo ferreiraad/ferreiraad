@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700" role="img" aria-labelledby="title desc">
+  <title id="title">Adriano Ferreira technology constellation</title>
+  <desc id="desc">A technology constellation connecting cloud, platform engineering, AI, IoT, embedded systems and programming languages around Adriano Ferreira.</desc>
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="48%" r="72%">
+      <stop offset="0" stop-color="#10233f"/>
+      <stop offset="0.55" stop-color="#081425"/>
+      <stop offset="1" stop-color="#03070d"/>
+    </radialGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#00e5ff"/>
+      <stop offset="0.52" stop-color="#7c3cff"/>
+      <stop offset="1" stop-color="#ff2ea6"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <pattern id="stars" width="120" height="90" patternUnits="userSpaceOnUse">
+      <circle cx="18" cy="16" r="1.2" fill="#ffffff" opacity=".5"/>
+      <circle cx="84" cy="42" r=".9" fill="#82dfff" opacity=".45"/>
+      <circle cx="52" cy="78" r="1.1" fill="#d9c6ff" opacity=".35"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="700" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="700" rx="28" fill="url(#stars)"/>
+  <rect x="1.5" y="1.5" width="1197" height="697" rx="26.5" fill="none" stroke="#3f5f86" stroke-opacity=".5" stroke-width="3"/>
+
+  <text x="50" y="58" fill="#dff7ff" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" letter-spacing="5">TECHNOLOGY CONSTELLATION</text>
+  <path d="M50 80 H1150" stroke="url(#line)" stroke-width="2"/>
+
+  <g stroke="url(#line)" stroke-width="2" opacity=".55">
+    <line x1="600" y1="360" x2="600" y2="150"/>
+    <line x1="600" y1="360" x2="340" y2="190"/>
+    <line x1="600" y1="360" x2="860" y2="190"/>
+    <line x1="600" y1="360" x2="260" y2="390"/>
+    <line x1="600" y1="360" x2="940" y2="390"/>
+    <line x1="600" y1="360" x2="370" y2="560"/>
+    <line x1="600" y1="360" x2="830" y2="560"/>
+    <line x1="340" y1="190" x2="260" y2="390"/>
+    <line x1="860" y1="190" x2="940" y2="390"/>
+    <line x1="370" y1="560" x2="260" y2="390"/>
+    <line x1="830" y1="560" x2="940" y2="390"/>
+  </g>
+
+  <g font-family="Arial, Helvetica, sans-serif">
+    <g transform="translate(600 360)">
+      <circle r="78" fill="#0b1a2d" stroke="#00e5ff" stroke-width="3" filter="url(#glow)"/>
+      <circle r="58" fill="none" stroke="#7c3cff" stroke-opacity=".55"/>
+      <text y="-4" text-anchor="middle" fill="#ffffff" font-size="26" font-weight="800">ADRIANO</text>
+      <text y="28" text-anchor="middle" fill="#91c9e8" font-size="14" letter-spacing="2">ENGINEERING</text>
+    </g>
+
+    <g transform="translate(600 150)">
+      <circle r="48" fill="#10172f" stroke="#ff2ea6" stroke-width="2"/>
+      <text y="6" text-anchor="middle" fill="#ffe8f6" font-size="20" font-weight="800">AI</text>
+    </g>
+
+    <g transform="translate(340 190)">
+      <circle r="54" fill="#0b1f2d" stroke="#00e5ff" stroke-width="2"/>
+      <text y="-2" text-anchor="middle" fill="#dffaff" font-size="19" font-weight="800">CLOUD</text>
+      <text y="22" text-anchor="middle" fill="#7fa7c8" font-size="12">AWS · GCP</text>
+    </g>
+
+    <g transform="translate(860 190)">
+      <circle r="58" fill="#17182e" stroke="#7c3cff" stroke-width="2"/>
+      <text y="-2" text-anchor="middle" fill="#efe8ff" font-size="17" font-weight="800">PLATFORM</text>
+      <text y="22" text-anchor="middle" fill="#9e8dc8" font-size="12">K8S · TF</text>
+    </g>
+
+    <g transform="translate(260 390)">
+      <circle r="52" fill="#0b1f2d" stroke="#00d0b4" stroke-width="2"/>
+      <text y="-2" text-anchor="middle" fill="#e0fff9" font-size="20" font-weight="800">IoT</text>
+      <text y="22" text-anchor="middle" fill="#7fa7c8" font-size="12">LoRaWAN</text>
+    </g>
+
+    <g transform="translate(940 390)">
+      <circle r="58" fill="#24142a" stroke="#ff2ea6" stroke-width="2"/>
+      <text y="-2" text-anchor="middle" fill="#ffe6f4" font-size="17" font-weight="800">BACKEND</text>
+      <text y="22" text-anchor="middle" fill="#b98ca6" font-size="12">Go · Java</text>
+    </g>
+
+    <g transform="translate(370 560)">
+      <circle r="58" fill="#121f2a" stroke="#8cb6d8" stroke-width="2"/>
+      <text y="-2" text-anchor="middle" fill="#e8f6ff" font-size="16" font-weight="800">EMBEDDED</text>
+      <text y="22" text-anchor="middle" fill="#7fa7c8" font-size="12">C++ · FreeRTOS</text>
+    </g>
+
+    <g transform="translate(830 560)">
+      <circle r="58" fill="#15182c" stroke="#7c3cff" stroke-width="2"/>
+      <text y="-2" text-anchor="middle" fill="#efe8ff" font-size="17" font-weight="800">DEVEX</text>
+      <text y="22" text-anchor="middle" fill="#9e8dc8" font-size="12">Automation</text>
+    </g>
+  </g>
+
+  <g fill="#ffffff" opacity=".75">
+    <circle cx="130" cy="160" r="2"/>
+    <circle cx="1080" cy="120" r="1.6"/>
+    <circle cx="1060" cy="610" r="2"/>
+    <circle cx="140" cy="590" r="1.4"/>
+  </g>
+</svg>

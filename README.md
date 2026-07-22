@@ -19,55 +19,25 @@ Building intelligent platforms that connect cloud, software, AI and the physical
 </div>
 
 ---
+<br/>
 
-## System Status
+<p align="center">
+  <img
+    src="./assets/svg/system-status.svg"
+    width="100%"
+    alt="Adriano Ferreira system status"
+  />
+</p>
 
-```yaml
-identity: Adriano Ferreira
-role: Hands-on Engineering Manager
-experience: 23+ years
 
-mission:
-  - Build scalable cloud-native platforms
-  - Connect AI with IoT and edge systems
-  - Create reusable engineering capabilities
-  - Improve developer experience
 
-current_focus:
-  - Platform Engineering
-  - Cloud Architecture
-  - Artificial Intelligence
-  - Internet of Things
-  - Embedded Systems
-  - Edge Computing
-
-status: ONLINE
-```
-
----
-
-## Experience Matrix
-
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <h3>23+</h3>
-      Years of Experience
-    </td>
-    <td align="center" width="25%">
-      <h3>20+</h3>
-      Java
-    </td>
-    <td align="center" width="25%">
-      <h3>8+</h3>
-      Cloud & Platform
-    </td>
-    <td align="center" width="25%">
-      <h3>2+</h3>
-      Embedded C++
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img
+    src="./assets/svg/experience-matrix.svg"
+    width="100%"
+    alt="Adriano Ferreira experience matrix"
+  />
+</p>
 
 ---
 
@@ -124,6 +94,18 @@ status: ONLINE
   />
 </p>
 
+<br />
+
+---
+<br />
+<p align="center">
+  <img
+    src="./assets/svg/technology-constellation.svg"
+    width="100%"
+    alt="Adriano Ferreira technology constellation"
+  />
+</p>
+
 ### Embedded and Connected Systems
 
 <p>
@@ -147,21 +129,18 @@ status: ONLINE
 - 🔭 Build observable systems
 - 🌍 Connect software with real-world impact
 
+<br/>
+
 ---
 
-## Maya
-
-### Current Vision
-
-Maya is an AI initiative focused on connecting intelligent cloud-native platforms with IoT, edge computing and real-world systems.
-
-- 🤖 Intelligent agents
-- ☁️ Cloud-native platforms
-- 🌐 IoT and edge computing
-- 📡 LoRa and LoRaWAN
-- 🔐 Secure APIs
-- ⚡ Real-time processing
-- 🔄 Intelligent automation
+<br/>
+<p align="center">
+  <img
+    src="./assets/svg/maya-vision.svg"
+    width="100%"
+    alt="Maya connected intelligence"
+  />
+</p>
 
 ---
 

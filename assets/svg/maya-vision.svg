@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="470" viewBox="0 0 1200 470" role="img" aria-labelledby="title desc">
+  <title id="title">Maya connected intelligence</title>
+  <desc id="desc">Futuristic Maya card showing AI, cloud, edge, IoT, LoRaWAN and automation capabilities.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07111f"/>
+      <stop offset=".7" stop-color="#0c1024"/>
+      <stop offset="1" stop-color="#17091a"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#00e5ff"/>
+      <stop offset=".5" stop-color="#7c3cff"/>
+      <stop offset="1" stop-color="#ff2ea6"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="470" rx="28" fill="url(#bg)"/>
+  <rect x="1.5" y="1.5" width="1197" height="467" rx="26.5" fill="none" stroke="#3f5f86" stroke-opacity=".5" stroke-width="3"/>
+
+  <g transform="translate(70 70)">
+    <circle cx="150" cy="165" r="115" fill="#09162a" stroke="url(#accent)" stroke-width="3" filter="url(#glow)"/>
+    <circle cx="150" cy="165" r="82" fill="none" stroke="#7c3cff" stroke-opacity=".5"/>
+    <circle cx="150" cy="165" r="46" fill="#101d33" stroke="#00e5ff" stroke-width="2"/>
+    <path d="M150 60 V105 M150 225 V270 M45 165 H90 M210 165 H255 M78 93 L110 125 M190 205 L222 237 M222 93 L190 125 M110 205 L78 237"
+          stroke="#8eeeff" stroke-width="3" stroke-linecap="round" opacity=".7"/>
+    <circle cx="150" cy="165" r="12" fill="#00e5ff"/>
+    <circle cx="150" cy="165" r="25" fill="none" stroke="#ff2ea6" opacity=".7"/>
+    <text x="150" y="338" text-anchor="middle" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="800" letter-spacing="7">MAYA</text>
+    <text x="150" y="370" text-anchor="middle" fill="#8cb6d8" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="3">CONNECTED INTELLIGENCE</text>
+  </g>
+
+  <g transform="translate(410 60)" font-family="Arial, Helvetica, sans-serif">
+    <text x="0" y="34" fill="#dff7ff" font-size="22" font-weight="700" letter-spacing="5">CURRENT VISION</text>
+    <path d="M0 56 H700" stroke="url(#accent)" stroke-width="2"/>
+
+    <text x="0" y="112" fill="#ffffff" font-size="30" font-weight="800">AI that connects cloud and the physical world.</text>
+    <text x="0" y="148" fill="#8cb6d8" font-size="17">Cloud-native intelligence for platforms, IoT, edge systems and automation.</text>
+
+    <g font-size="16" font-weight="700">
+      <rect x="0" y="190" width="205" height="48" rx="14" fill="#0c2434" stroke="#00e5ff" stroke-opacity=".55"/>
+      <text x="102" y="220" text-anchor="middle" fill="#e0fbff">INTELLIGENT AGENTS</text>
+
+      <rect x="225" y="190" width="205" height="48" rx="14" fill="#17182e" stroke="#7c3cff" stroke-opacity=".65"/>
+      <text x="327" y="220" text-anchor="middle" fill="#f0eaff">CLOUD-NATIVE</text>
+
+      <rect x="450" y="190" width="205" height="48" rx="14" fill="#24142a" stroke="#ff2ea6" stroke-opacity=".55"/>
+      <text x="552" y="220" text-anchor="middle" fill="#ffe5f4">EDGE AI</text>
+
+      <rect x="0" y="258" width="205" height="48" rx="14" fill="#0f292c" stroke="#00d0b4" stroke-opacity=".55"/>
+      <text x="102" y="288" text-anchor="middle" fill="#e1fff9">IoT &amp; LoRaWAN</text>
+
+      <rect x="225" y="258" width="205" height="48" rx="14" fill="#18222d" stroke="#8cb6d8" stroke-opacity=".5"/>
+      <text x="327" y="288" text-anchor="middle" fill="#e7f4ff">SECURE APIs</text>
+
+      <rect x="450" y="258" width="205" height="48" rx="14" fill="#18222d" stroke="#8cb6d8" stroke-opacity=".5"/>
+      <text x="552" y="288" text-anchor="middle" fill="#e7f4ff">AUTOMATION</text>
+    </g>
+
+    <text x="0" y="362" fill="#7fa7c8" font-size="14" letter-spacing="3">STATUS</text>
+    <circle cx="18" cy="395" r="8" fill="#00e5b8" filter="url(#glow)"/>
+    <text x="40" y="402" fill="#ffffff" font-size="21" font-weight="700">ACTIVE DEVELOPMENT</text>
+  </g>
+</svg>
