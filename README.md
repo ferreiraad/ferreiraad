@@ -1,194 +1,118 @@
 <div align="center">
 
-# Adriano Ferreira
+<img
+  src="./assets/banner/technology-radar.png"
+  alt="Adriano Ferreira technology radar"
+  width="100%"
+/>
 
-### Hands-on Engineering Manager • Platform Engineering • Cloud Architecture • AI • IoT
+<br />
 
-Building scalable cloud platforms, distributed systems, embedded solutions and AI-powered products.
+# Engineering Beyond Code
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bradrianoferreira)
-[![Portfolio](https://img.shields.io/badge/ioterax.com-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ioterax.com)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:es.adrianof@gmail.com)
+### Hands-on Engineering Manager · Cloud Architect · Platform Engineer
+
+Building intelligent platforms that connect cloud, software, AI and the physical world.
+
+<br />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adriano%20Ferreira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bradrianoferreira)
+[![Website](https://img.shields.io/badge/Website-ioterax.com-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ioterax.com)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:es.adrianof@gmail.com)
 
 </div>
 
 ---
 
-## About Me
-
-I'm a **hands-on Engineering Manager** focused on building scalable, secure and reusable technology platforms.
-
-I combine more than **15 years of leadership experience** with hands-on software engineering across cloud-native systems, backend development, embedded systems, IoT and artificial intelligence.
-
-I enjoy connecting software, cloud infrastructure and physical devices to create end-to-end solutions.
-
-### Areas of Interest
-
-- ☁️ Cloud Architecture
-- 🚀 Platform Engineering
-- 🤖 Artificial Intelligence
-- 🌐 Internet of Things
-- 📡 LoRa and LoRaWAN
-- ⚙️ Embedded Systems
-- 🧠 Edge Computing
-- 🔧 DevOps and GitOps
-- 📦 Kubernetes Ecosystem
-- 🏗️ Distributed Systems
-- 🔐 Security by Design
-- 📈 Developer Experience
-
----
-
-## Tech Stack
-
-### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=go,java,cpp,ts,js,python,bash"/>
-</p>
-
-### Cloud and Infrastructure
-
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform"/>
-</p>
-
-### Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,nestjs,postgres,mongodb,redis"/>
-</p>
-
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css"/>
-</p>
-
-### Embedded and IoT
-
-<p>
-  <img src="https://img.shields.io/badge/Embedded%20Systems-1C1C1C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FreeRTOS-00AEEF?style=for-the-badge&logo=freertos&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LoRa-1C4C96?style=for-the-badge&logo=semtech&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LoRaWAN-0057B8?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/IoT-0A66C2?style=for-the-badge&logo=internetofthings&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Edge%20Computing-333333?style=for-the-badge"/>
-</p>
-
-### DevOps and Observability
-
-<p>
-  <img src="https://skillicons.dev/icons?i=githubactions,docker,kubernetes,terraform,prometheus,grafana"/>
-</p>
-
-### Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,idea"/>
-</p>
-
----
-
-## Current Focus
+## System Status
 
 ```yaml
-leadership:
-  - Engineering Management
-  - Technical Strategy
-  - Developer Experience
+identity: Adriano Ferreira
+role: Hands-on Engineering Manager
+experience: 23+ years
 
-cloud:
+mission:
+  - Build scalable cloud-native platforms
+  - Connect AI with IoT and edge systems
+  - Create reusable engineering capabilities
+  - Improve developer experience
+
+current_focus:
   - Platform Engineering
-  - Cloud-Native Architecture
-  - Infrastructure as Code
-  - Kubernetes
-  - GitOps
-
-software:
-  - Go
-  - Java
-  - C++
-  - Distributed Systems
-  - Microservices
-
-embedded:
+  - Cloud Architecture
+  - Artificial Intelligence
+  - Internet of Things
   - Embedded Systems
-  - FreeRTOS
-  - IoT
-  - LoRa
-  - LoRaWAN
   - Edge Computing
 
-artificial_intelligence:
-  - Generative AI
-  - AI-Powered Platforms
-  - Maya
-```
+status: ONLINE
 
----
-
-## Building Maya
-
-**Maya** is an AI initiative focused on creating intelligent capabilities for IoT, security, logistics, traceability and cloud-connected systems.
-
-The vision is to combine:
-
-- Artificial Intelligence
-- IoT and edge devices
-- LoRa and LoRaWAN connectivity
-- Cloud-native platforms
-- Secure APIs
-- Automation
-- Real-time data processing
-
----
-
-## GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ferreiraad&show_icons=true&theme=github_dark&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferreiraad&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
-
----
-
-## Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ferreiraad&theme=github-dark&hide_border=true"/>
-</p>
-
----
-
-## Certifications
-
-### AWS
-
-- AWS Certified Cloud Practitioner
-- AWS Certified Developer – Associate
-- AWS Certified Solutions Architect – Associate
-
-### HashiCorp
-
-- HashiCorp Certified: Terraform Associate
-
----
-
-## Engineering Philosophy
-
-> Build reusable capabilities, not isolated solutions.
-
-> Connect cloud, software, devices and intelligence.
-
-> Build platforms that allow teams and products to scale.
-
----
-
+Experience Matrix
+<table> <tr> <td align="center"><strong>23+</strong><br />Years of Experience</td> <td align="center"><strong>20+</strong><br />Java</td> <td align="center"><strong>8+</strong><br />Cloud & Platform</td> <td align="center"><strong>2+</strong><br />Embedded C++</td> </tr> </table>
+Technology Domains
 <div align="center">
 
-### Cloud • Platform Engineering • AI • IoT • LoRa • Embedded Systems
 
-**Always learning. Always building.**
+
+
+
+
+
+
+
+
+
 
 </div>
+Core Stack
+Cloud and Platform
+<p> <img src="https://skillicons.dev/icons?i=aws,gcp,kubernetes,docker,terraform,linux"/> </p>
+Software Engineering
+<p> <img src="https://skillicons.dev/icons?i=go,java,cpp,ts,js,python,bash"/> </p>
+Backend and Data
+<p> <img src="https://skillicons.dev/icons?i=spring,nodejs,nestjs,postgres,mongodb,redis,rabbitmq"/> </p>
+DevOps and Observability
+<p> <img src="https://skillicons.dev/icons?i=githubactions,git,prometheus,grafana"/> </p>
+Embedded and Connected Systems
+<p> <img src="https://img.shields.io/badge/Embedded%20C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/FreeRTOS-111111?style=for-the-badge"/> <img src="https://img.shields.io/badge/LoRa-1C4C96?style=for-the-badge"/> <img src="https://img.shields.io/badge/LoRaWAN-0057B8?style=for-the-badge"/> <img src="https://img.shields.io/badge/Edge%20Computing-333333?style=for-the-badge"/> </p>
+Engineering Principles
+01. Build reusable capabilities, not isolated solutions.
+02. Think in systems and design for evolution.
+03. Automate repetitive work.
+04. Keep architecture simple and observable.
+05. Treat developer experience as a product.
+06. Apply security from the beginning.
+07. Measure before scaling.
+08. Connect software with real-world impact.
+Current Vision
+Maya
+
+Maya is an AI initiative focused on intelligent capabilities for cloud, IoT, edge computing, logistics, traceability and connected systems.
+
+AI
+│
+├── Cloud-native platforms
+├── Intelligent agents
+├── IoT and edge devices
+├── LoRa and LoRaWAN
+├── Secure APIs
+├── Real-time processing
+└── Automation
+GitHub Analytics
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ferreiraad&show_icons=true&theme=github_dark&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferreiraad&layout=compact&theme=github_dark&hide_border=true" />
+
+</div> <div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ferreiraad&theme=github-dark&hide_border=true" width="100%" />
+
+</div>
+<div align="center">
+Cloud · Platform Engineering · AI · IoT · Embedded Systems
+
+Always learning. Always building. Always evolving.
+
+</div> ```
