@@ -150,13 +150,13 @@ Building intelligent platforms that connect cloud, software, AI and the physical
 
 <img
   height="170"
-  src="https://github-readme-stats.vercel.app/api?username=ferreiraad&show_icons=true&theme=github_dark&hide_border=true"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ferreiraad&theme=github_dark"
   alt="Adriano Ferreira GitHub statistics"
 />
 
 <img
   height="170"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferreiraad&layout=compact&theme=github_dark&hide_border=true"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ferreiraad&theme=github_dark"
   alt="Adriano Ferreira most used languages"
 />
 
@@ -167,7 +167,7 @@ Building intelligent platforms that connect cloud, software, AI and the physical
 <div align="center">
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=ferreiraad&theme=github-dark&hide_border=true"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ferreiraad&theme=github_dark"
   width="100%"
   alt="Adriano Ferreira contribution graph"
 />
